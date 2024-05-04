@@ -1,8 +1,0 @@
-uvicorn main:app --reload  
-
-
-#predict edilirse kırpılacak, json olarak predict url ve kırpma uniq file name return eedilecek
-predict edilemesse hata dödnğr
-
-uygulamada respons içerisinde predict: keyinin karşılığında url crop karsısında ise cropped image uid
-kullanıcı onaylar ise croppedimageid 2. bir endpointe parametre olarak gidecek
